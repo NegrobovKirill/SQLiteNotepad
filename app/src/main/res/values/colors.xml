@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_item">#190075</color>
+    <color name="app_background">#B4E5FF</color>
+    <color name="botton_color">#14ECAF</color>
+    <color name="edit_text_dark">#FF000000</color>
+    <color name="edit_text_no_dark">#080846</color>
+</resources>
